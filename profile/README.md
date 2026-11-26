@@ -1,5 +1,5 @@
 <p>
-  <a href="https://piinteltech.com/" target="_blank">
+  <a href="https://piinteltech.com/">
     <img src="PIINTEL_LOGO.png"
          alt="Piintel Technology Sdn. Bhd. Logo"
          width="400">
@@ -14,10 +14,10 @@ Piintel Technology Sdn. Bhd. offers a comprehensive range of inline pipeline ins
 
 ### Inspection Services
 
-**Magnetic Flux Leakage (MFL)**
+#### Magnetic Flux Leakage (MFL)
 A non-destructive testing method used to detect corrosion, pitting, and other defects in ferromagnetic materials, such as pipelines and storage tanks.
 
-**Multi-Channel Caliper & Foam Caliper**
+#### Multi-Channel Caliper & Foam Caliper
 Capture detailed measurements of a pipeline's internal geometry to identify issues such as dents, ovality, and other mechanical deformations.
 
 ### Cleaning Services
